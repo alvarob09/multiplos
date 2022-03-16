@@ -11,5 +11,5 @@ if(( $count % 7) == 0){
 	echo $count . ' no es multiplo de 3';
 
 }
-
+<input type="text" name="nombredelacaja">
 ?>
